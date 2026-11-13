@@ -13,6 +13,10 @@
 
 - [[Toss]디자인 시스템 다시 생각해보기](https://toss.tech/article/rethinking-design-system)
 
+#### 11.13
+
+- [[Toss]전체 데이터를 브라우저에 두는 광고 대시보드 만들기](https://toss.tech/article/ads_dashboard_fe)
+
 ### 글까지 쓴 날.
 
 #### 11.09
@@ -30,3 +34,7 @@
 #### 11.12
 
 - [\[REACT\]TanStack Query](./frontend/react/tanstack-query.md)
+
+#### 11.13
+
+- [\[TYPESCRIPT\]Zod](./frontend/typescript/zod.md)
