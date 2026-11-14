@@ -38,3 +38,7 @@
 #### 11.13
 
 - [\[TYPESCRIPT\]Zod](./frontend/typescript/zod.md)
+
+#### 11.14
+
+- [\[NETWORK\]HTTP Status Code](./frontend/network/http-status-code.md)
