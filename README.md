@@ -17,6 +17,10 @@
 
 - [[Toss]전체 데이터를 브라우저에 두는 광고 대시보드 만들기](https://toss.tech/article/ads_dashboard_fe)
 
+#### 11.15
+
+- [[Woowahan]critical-script, 배달의민족 웹뷰 로딩 성능을 30% 개선한 인라인 스크립트 로딩 전략 이야기](https://techblog.woowahan.com/27864/)
+
 ### 글까지 쓴 날.
 
 #### 11.09
@@ -42,3 +46,7 @@
 #### 11.14
 
 - [\[NETWORK\]HTTP Status Code](./frontend/network/http-status-code.md)
+
+#### 11.15
+
+- [\[NETWORK\]CORS](./frontend/network/CORS.md)
