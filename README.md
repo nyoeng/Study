@@ -50,3 +50,7 @@
 #### 11.15
 
 - [\[NETWORK\]CORS](./frontend/network/CORS.md)
+
+#### 11.16
+
+- [\[NETWORK\]HTTP Method](./frontend/network/http-method.md)
